@@ -1,0 +1,91 @@
+???
+persona
+bicycle
+car
+motorcycle
+airplane
+bus
+train
+truck
+boat
+traffic light
+fire hydrant
+???
+stop sign
+parking meter
+bench
+bird
+cat
+dog
+horse
+sheep
+cow
+elephant
+bear
+zebra
+giraffe
+???
+backpack
+umbrella
+???
+???
+handbag
+tie
+suitcase
+frisbee
+skis
+snowboard
+sports ball
+kite
+baseball bat
+baseball glove
+skateboard
+surfboard
+tennis racket
+botella
+???
+copa de vino
+taza
+fork
+knife
+spoon
+bowl
+banana
+tomate
+sandwich
+naranja
+broccoli
+carrot
+hot dog
+pizza
+donut
+cake
+silla 
+couch
+potted plant
+cama
+???
+dining table
+???
+???
+toilet
+???
+lcd
+laptop
+raton
+remote
+teclado
+telefono
+microwave
+oven
+toaster
+sink
+refrigerator
+???
+libro
+reloj
+vase
+tijeras
+teddy bear
+hair drier
+cepillo
